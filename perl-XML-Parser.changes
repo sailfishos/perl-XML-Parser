@@ -1,3 +1,6 @@
+* Wed Jul 11 2012 Arnaud Delcasse <arnaud@delcasse.fr> - 2.41
+- Fixes MER#340: update perl-XML-Parser to version 2.41
+
 * Wed Feb 27 2008 Tom "spot" Callaway <tcallawa@redhat.com> - 2.36-3
 - Rebuild for perl 5.10 (again)
 
